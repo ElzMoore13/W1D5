@@ -15,7 +15,6 @@ function poppinBottles(){
   var layoverEmpties = 0;
   var layoverCaps = 0;
   var totalBottles = 0;
-  console.log(investment, layoverEmpties, layoverCaps, totalBottles)
 
   return function pop(){
 
